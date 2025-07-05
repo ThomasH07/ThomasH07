@@ -3,7 +3,8 @@
 - 🎆 I’m currently working on Financial Tracking App
 - 🔎 I’m currently learning about Mobile Development, and Databases
 - 🤝 Preparing for SWE interviews. Open to mentorship and peer mock interviews!
-- 💬 Ask me about react, AWS, etc.<br>- ✉️ How to reach me hthomas.0720@gmail.com
+- 💬 Ask me about react, AWS, etc.
+- ✉️ How to reach me hthomas.0720@gmail.com
 - 👨‍💻 All of my projects are available at my Github
 - ⚡ Fun fact I like reading random documentation 
 
