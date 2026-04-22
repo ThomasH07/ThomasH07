@@ -1,9 +1,9 @@
 # 💫 I'm Thomas!
 - 👤 A passionate and upcomng software engineer from New York
-- 🎆 I’m currently working on Financial Tracking App
-- 🔎 I’m currently learning about Mobile Development, and Databases
+- 🎆 I’m currently working on my Capstone Project
+- 🔎 I’m currently learning about Machine Learning, and Databases
 - 🤝 Preparing for SWE interviews. Open to mentorship and peer mock interviews!
-- 💬 Ask me about react, AWS, etc.
+- 💬 Ask me about react, ML, etc.
 - ✉️ How to reach me hthomas.0720@gmail.com
 - 👨‍💻 All of my projects are available at my Github
 - ⚡ Fun fact I like reading random documentation 
