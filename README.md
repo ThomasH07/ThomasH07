@@ -1,6 +1,8 @@
 # Thomas Huang
 
-Software engineer based in NY, currently pursuing my M.S. in CS at Georgia Tech, specializing in ML. Alongside that, I'm working on two personal projects — one already deployed, another still in the works.
+Software engineer based in NY, currently pursuing my M.S. in CS at Georgia Tech, specializing in ML. 
+
+Alongside that, I'm working on two personal projects — one already deployed, another still in the works.
 
 Right now I'm deep in interview prep — always happy to trade mock interviews or swap notes if you're doing the same. I spend a lot of my free time studying and reading through documentation for fun (yes, really), which probably says too much about me.
 
